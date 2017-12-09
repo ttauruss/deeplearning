@@ -1,6 +1,7 @@
 # Deep learning course by Andrew Ng
 
-## Dimensions
+## Course1
+### Dimensions
 
 n[i] - the size of level i  
 dimensions of W[i] - (n[i], n[i-1])  
