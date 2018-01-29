@@ -35,4 +35,4 @@ Resnet architecture solves the problem of vanishing gradients by adding identity
 Train data size 1080 x 64 x 64 x 3  
 Test data size 120 x 64 x 64 x 3  
 6 classes on the output  
-Test accuracy 75.8% after training 20 epochs (took about an hour)
+Test accuracy 75.8% after 20 epochs of training (took about an hour)
