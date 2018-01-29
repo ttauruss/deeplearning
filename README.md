@@ -19,7 +19,7 @@ weights are drawn from a distribution with zero mean and variance 1/n where n is
 ## Course 3
 ### projects
 
-Deep Learning on Coursera, Convolutional networks, week 2  
+week 2  
 Happy House project - binary classification problem, classify images as “happy” or “not happy”.  
 Used Keras to build a simple Conv NN.  
 Train data size 600 x 64 x 64 x 3  
