@@ -1,6 +1,7 @@
 # Deep learning course by Andrew Ng
 
-[summary of the course](https://www.kdnuggets.com/2017/11/ng-deep-learning-specialization-21-lessons.html)
+[summary of the course](https://www.kdnuggets.com/2017/11/ng-deep-learning-specialization-21-lessons.html)  
+[another link](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
 
 ## Course1
 ### Dimensions
