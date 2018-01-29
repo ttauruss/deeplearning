@@ -31,4 +31,8 @@ Test Accuracy 93.3%
   
 Classifying images from SIGNS dataset using Resnet with 50 layers  
 [original paper](https://arxiv.org/pdf/1512.03385.pdf)  
-Resnet architecture solves the problem of vanishing gradients by adding identity layers.
+Resnet architecture solves the problem of vanishing gradients by adding identity layers.  
+Train data size 1080 x 64 x 64 x 3  
+Test data size 120 x 64 x 64 x 3  
+6 classes on the output  
+Test accuracy 75.8% after training 20 epochs (took about an hour)
