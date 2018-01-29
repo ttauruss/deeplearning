@@ -27,3 +27,6 @@ Used Keras to build a simple Conv NN.
 Train data size 600 x 64 x 64 x 3  
 Test data size 150 x 64 x 64 x 3  
 Test Accuracy 93.3%  
+  
+Classifying sign numbers using Resnet with 50 layers
+[original paper](https://arxiv.org/pdf/1512.03385.pdf)
